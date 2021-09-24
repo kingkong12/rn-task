@@ -1,0 +1,8 @@
+
+
+// LAODER  
+// ERROR STATE HANDLE 
+     -  ERROR HIT -> REDIRECT  
+
+// Modularize  <-
+// UI   
